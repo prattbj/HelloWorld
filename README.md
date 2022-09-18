@@ -6,7 +6,7 @@ This program is a simple Hello World program.
 
 It was created so that I have a personal portfolio on GitHub. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/jiKRiXgJugQ)
 
 # Development Environment
 
@@ -14,5 +14,5 @@ I used VS 2022 and wrote this in C++, since that is the language I will likely b
 
 # Useful Websites
 
-* [Web Site Name](https://visualstudio.microsoft.com/vs/community/)
-* [Web Site Name](https://www.w3schools.com/cpp/cpp_syntax.asp)
+* [VS 2022 download](https://visualstudio.microsoft.com/vs/community/)
+* [w3schools cpp syntax](https://www.w3schools.com/cpp/cpp_syntax.asp)
